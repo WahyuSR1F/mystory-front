@@ -21,6 +21,7 @@ The StoryKu application is one of the implementations of the serve-client proces
 ## Tools
 - Vscode
 - Postman
+- Xampp
 ### Project Structure
 - src
 - component
